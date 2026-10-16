@@ -40,17 +40,17 @@ Los datos originales no se incluyen en este repositorio.
 ### 1. Resumen de generación: 
 KPIs, generación diaria, comparación entre inversores, generación por hora y relación irradiación-generación.
 
-<img src="Images/pagina1.png" alt="Página 1: Resumen de generación" width="800">
+<img src="Images/pagina1.png" alt="Página 1: Resumen de generación">
 
 ### 2. Clima y rendimiento por inversor:
 matriz inversor por hora, generación e irradiación por día, temperatura por hora del día.
 
-<img src="Images/pagina2.png" alt="Página 2: Clima y rendimiento por inversor" width="800">
+<img src="Images/pagina2.png" alt="Página 2: Clima y rendimiento por inversor">
 
 ### 3. Calidad y gobierno del dato:
 fuente, cobertura, inconsistencias, decisiones y diccionario.
 
-<img src="Images/pagina3.png" alt="Página 3: Calidad y gobierno del dato" width="800">
+<img src="Images/pagina3.png" alt="Página 3: Calidad y gobierno del dato">
 
 ## Hallazgos
 - Generación total en el período: ~5,29 millones de kWh.
